@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on setting up my infrastructure with Docker Compse & [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
+- 🔭 I’m currently working on setting up my infrastructure with Docker Compose & [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
 - 🌱 I’m currently learning docker, docker compose, kubernetes, terraform, argocd
 - 👯 I’m looking to collaborate on any open source projects
 - 🤔 I’m looking for help with my fuel tracker laravel application
