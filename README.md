@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on setting up my infrastructure with Docker Compose & [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
-- 🌱 I’m currently learning docker, docker compose, kubernetes, terraform, argocd
+- 🔭 I’m currently working on my infrastructure with [docker compose](https://docs.docker.com/compose/) & [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
+- 🌱 I’m currently learning [Docker](https://docker.com), [Docker Compose](https://docs.docker.com/compose/), [Kubernetes](https://kubernetes.io/), [Terraform](https://www.terraform.io), [Argo CD](https://argoproj.github.io/cd/)
 - 👯 I’m looking to collaborate on any open source projects
 - 🤔 I’m looking for help with my fuel tracker laravel application
 
