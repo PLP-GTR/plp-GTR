@@ -4,10 +4,10 @@
 
 Currently, on & off:
 
-- [ ] 👯 I’m looking to collaborate on any open source projects
-- [ ] 🤔 I’m looking for help with my fuel tracker laravel application
-- [ ] 🌱 I’m currently learning [Docker](https://docker.com), [Docker Compose](https://docs.docker.com/compose/), [Kubernetes](https://kubernetes.io/), [Terraform](https://www.terraform.io), [Argo CD](https://argoproj.github.io/cd/)
-- [x] 🔭 I’m currently working on my infrastructure with [docker compose](https://docs.docker.com/compose/) & [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) 
+- 👯 I’m looking to collaborate on any open source projects
+- 🤔 I’m looking for help with my fuel tracker laravel application
+- 🌱 I’m currently learning [Docker](https://docker.com), [Docker Compose](https://docs.docker.com/compose/), [Kubernetes](https://kubernetes.io/), [Terraform](https://www.terraform.io), [Argo CD](https://argoproj.github.io/cd/)
+- 🔭 I’m currently working on my infrastructure with [docker compose](https://docs.docker.com/compose/) & [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) ✅
 
 Links:
 
