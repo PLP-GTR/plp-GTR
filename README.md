@@ -2,6 +2,8 @@
 
 - 🌳 I love to offer hospitality and I'm supporting awesome projects. Check out https://linktr.ee/plp.gtr
 
+Currently, on & off:
+
 - [ ] 👯 I’m looking to collaborate on any open source projects
 - [ ] 🤔 I’m looking for help with my fuel tracker laravel application
 - [ ] 🌱 I’m currently learning [Docker](https://docker.com), [Docker Compose](https://docs.docker.com/compose/), [Kubernetes](https://kubernetes.io/), [Terraform](https://www.terraform.io), [Argo CD](https://argoproj.github.io/cd/)
