@@ -6,7 +6,7 @@ Currently, on & off:
 
 - 👯 I’m looking to collaborate on any open source projects
 - 🤔 I’m looking for help with my fuel tracker laravel application
-- 🌱 I’m currently learning ... how to fix my Unraid server for the 20th time because the OS is ... special
+- 🌱 I’m currently learning ... how to fix my Unraid server for the 20th time because the OS is ... special ... and destroying itself with basically every update
 - 🔭 I’m currently working on my infrastructure with [docker compose](https://docs.docker.com/compose/) & [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) ✅
 
 Links:
