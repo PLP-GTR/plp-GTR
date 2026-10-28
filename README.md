@@ -10,11 +10,14 @@ Currently, on & off:
 - 🔭 I’m currently working on an application to revolutionize advertisement
 
 Projects:
-- 🎮 CoD Atlas: A webpage showing all Call of Duty levels on the world map. Includes level description, historical context and differences as well as map overlays if available from the games. [[Repo]([url](https://github.com/time-wasters/cod-atlas))]
+- 🎮 CoD Atlas
+  - A webpage showing all Call of Duty levels on the world map. Includes level description, historical context and differences as well as map overlays if available from the games. [[Repo](https://github.com/time-wasters/cod-atlas)]
   - Visit preview at: https://cod-atlas-staging.plpgtr.de/
-- 🗺️ Geoperio: A website to align & transform images of maps to the real world and get the corner coordinates as well as download the shaped overlay. [[Repo]([url](https://github.com/time-wasters/geoperio))]
+- 🗺️ Geoperio
+  - A website to align & transform images of maps to the real world and get the corner coordinates as well as download the shaped overlay.
   - Use at: https://geoperio.plpgtr.de/
-- 🖊️ Pen-Print: A small Python application for using an FLSUN Q5 as an XY pen plotter. [[Repo]([url](https://github.com/time-wasters/pen-print))]
+- 🖊️ Pen-Print
+  - A small Python application for using an FLSUN Q5 as an XY pen plotter. [[Repo](https://github.com/time-wasters/pen-print)]
   - Download at: https://github.com/time-wasters/pen-print
 
 Links:
