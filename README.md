@@ -5,9 +5,17 @@
 Currently, on & off:
 
 - 👯 I’m looking to collaborate on any open source projects
-- 🤔 I’m looking for no help with anything right now
+- 🤔 I’m looking for help with [CoD Atlas]([url](https://github.com/time-wasters/cod-atlas)) to complete level descriptions, verify locations and keep it up to date
 - 🌱 I’m currently learning ... how to fix my Unraid server for the 20th time because the OS is ... special ... and destroying itself with basically every update
 - 🔭 I’m currently working on an application to revolutionize advertisement
+
+Projects:
+- 🎮 CoD Atlas: A webpage showing all Call of Duty levels on the world map. Includes level description, historical context and differences as well as map overlays if available from the games. [[Repo]([url](https://github.com/time-wasters/cod-atlas))]
+  - Visit preview at: https://cod-atlas-staging.plpgtr.de/
+- 🗺️ Geoperio: A website to align & transform images of maps to the real world and get the corner coordinates as well as download the shaped overlay. [[Repo]([url](https://github.com/time-wasters/geoperio))]
+  - Use at: https://geoperio.plpgtr.de/
+- 🖊️ Pen-Print: A small Python application for using an FLSUN Q5 as an XY pen plotter. [[Repo]([url](https://github.com/time-wasters/pen-print))]
+  - Download at: https://github.com/time-wasters/pen-print
 
 Links:
 
@@ -22,18 +30,3 @@ Services:
 - 🎨 My Draw.io/Diagrams.net server can be found at [draw.plpgtr.de](https://draw.plpgtr.de)
 
 Software I use: [SOFTWARE.md](SOFTWARE.md)
-
-<!--
-**PLP-GTR/plp-GTR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
